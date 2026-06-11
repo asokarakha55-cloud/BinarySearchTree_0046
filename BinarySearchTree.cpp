@@ -154,4 +154,9 @@ int main()
             obj.inorder(obj.ROOT);
             break;
         }
+        case '3':
+        {
+            obj.preorder(obj.ROOT);
+            break;
         }
+                }
