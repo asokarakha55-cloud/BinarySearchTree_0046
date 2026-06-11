@@ -120,3 +120,7 @@ public:
         }
     }
 };
+
+int main()
+{
+}
